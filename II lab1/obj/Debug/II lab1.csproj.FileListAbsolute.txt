@@ -41,3 +41,48 @@ C:\Users\Nikita\source\repos\II lab1\II lab1\bin\Debug\tr\ZedGraph.resources.dll
 C:\Users\Nikita\source\repos\II lab1\II lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
 C:\Users\Nikita\source\repos\II lab1\II lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
 C:\Users\Nikita\source\repos\II lab1\II lab1\bin\Debug\haarcascade_eye.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x64\concrt140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x64\cvextern.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x64\msvcp140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x64\vcruntime140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x86\concrt140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x86\cvextern.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x86\msvcp140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\x86\vcruntime140.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\haarcascade_eye.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\II lab1.exe.config
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\II lab1.exe
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\II lab1.pdb
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\ZedGraph.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\ZedGraph.xml
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II_lab1.Form1.resources
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II_lab1.Properties.Resources.resources
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.csproj.GenerateResource.cache
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.csproj.CopyComplete
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.exe
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\obj\Debug\II lab1.pdb
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\DirectShowLib.dll
+C:\Users\Nikita\Pictures\ii-laba1\II lab1\bin\Debug\DirectShowLib.pdb
