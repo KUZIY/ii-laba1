@@ -37,7 +37,7 @@ namespace II_lab1
             {
                 using (Graphics graphics = Graphics.FromImage(bitmap))
                 {
-                    using (Pen pen = new Pen(Color.Red, 3))
+                    using (Pen pen = new Pen(Color.Blue, 3))
                     {
                         graphics.DrawRectangle(pen, face);
                     }
@@ -57,7 +57,7 @@ namespace II_lab1
             {
                 using (Graphics graphics = Graphics.FromImage(bitmap))
                 {
-                    using (Pen pen = new Pen(Color.Yellow, 3))
+                    using (Pen pen = new Pen(Color.White, 3))
                     {
                         graphics.DrawRectangle(pen, eye);
                     }
